@@ -3,6 +3,8 @@ Programming course final assignment -- My first game programming, which gain me 
 
 复刻前一阵的热门植物大战僵尸mod——胆小菇之梦
 
+游戏Demo: https://v.douyin.com/iDeK1B1d/ 
+
 ## 程序实现
 继承QWidget并重写部分虚函数实现窗口、创建场景。
 继承QPushButton实现按钮，使用QPropertyAnimation、QMovie实现动画。
